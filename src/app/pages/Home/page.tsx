@@ -50,6 +50,7 @@ export default function Landing() {
     } finally {
       setIsloading(false);
     }
+    setPrompt("")
   };
   return (
     <>
