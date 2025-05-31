@@ -28,5 +28,5 @@ This is a simple and elegant AI-powered image generator that takes a text prompt
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-image-generator.git
+git clone https://github.com/Abhya1559/ai-app
 cd ai-image-generator
